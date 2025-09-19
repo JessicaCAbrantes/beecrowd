@@ -1,7 +1,17 @@
-#Problem:  - Hello World!
-#Language: Python 3.11 (Python 3.11.4)
+'''
+Problema #1000 - Hello World! - Nível 5
 
-#You must print the message Hello World! and then the endline as shown below.
+beecrowd | 1000
+Hello World!
+Adapted by Jean Bez, beecrowd !- Brasil
 
-#Solução em Pyhton 3.11:
+You must print the message Hello World! and then the endline as shown below.
+
+Solução em Pyhton 3.11:
+
+| Input Sample | Output Sample |
+| ------------ | ------------- |
+|              | Hello World!  |
+'''
+
 print("Hello World!")
