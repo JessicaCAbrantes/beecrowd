@@ -1,0 +1,33 @@
+#Problema 1003 - [Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) - Nível 1
+
+'''
+beecrowd | 1003
+Simple Sum
+
+Adapted by Neilor Tonin, URI ! Brazil
+
+Timelimit: 1
+
+Read two integer values, in this case, the variables A and B. After this, calculate the sum between them and assign it to the variable **SOMA**. Write the value of this variable.
+
+Input
+The input file contains 2 integer numbers.
+
+Output
+Print the message "SOMA" with all the capital letters, with a blank space before and after the equal signal followed by the corresponding value to the sum of A and B. Like all the problems, don't forget to print the end of line, otherwise you will receive "Presentation Error"
+
+| Input Samples | Output Samples |
+| ------------- | -------------- |
+| 30  <br>10    | SOMA = 40      |
+| -30  <br>10   | SOMA = -20     |
+| 0  <br>0      | SOMA = 0       |
+'''
+
+# beecrowd | 1003 - Simple Sum
+
+A = int(input())  # lê o primeiro inteiro
+B = int(input())  # lê o segundo inteiro
+
+SOMA = A + B      # soma dos dois valores
+
+print(f"SOMA = {SOMA}")  # imprime no formato correto
