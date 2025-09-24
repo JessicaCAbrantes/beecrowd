@@ -11,15 +11,19 @@ além de criar um acervo de soluções de referência.
 📂 Estrutura de Pastas
 
 beecrowd/
- └── solutions/
+ 
+ └── solutions/ 
+     
      └── problems/
+         
          ├── beginner/
          │    ├── 1001.py
          │    ├── 1002.py
-         │    └── ...
-         ├── intermediate/
-         ├── advanced/
+         │    └── ... 
+         ├── intermediate/ 
+         ├── advanced/  
          └── ...
+    
     └── contests
 
 
